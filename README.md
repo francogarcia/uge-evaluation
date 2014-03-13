@@ -3,5 +3,5 @@
 ### Instruções:
 Consultar o arquivo Carta-Convite.
 
-### Link o repositório de código-fonte
+### Link para o repositório de código-fonte
 https://github.com/francogarcia/uge
